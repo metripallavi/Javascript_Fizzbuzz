@@ -1,0 +1,8 @@
+* For the Brave!
+ * If you're done with this too early and want to tackle another challenge:
+ * 
+ * Write a string reversing algorithm, that takes in a string and returns it's reverse
+ * 
+ * Example: "code challenge" => "egnellahc edoc"
+ * 
+ 

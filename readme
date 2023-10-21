@@ -1,0 +1,12 @@
+# String Reversal Challenge
+
+To test the string reversal function:
+
+1. Open the `script.js` file.
+2. Look for the `originalString` variable.
+3. Replacing the value of `originalString` with the string "coding challenge" which was asked to reverse.
+4. Run the script, and the string is reversed.
+
+
+## Author
+Pallavi Metri
